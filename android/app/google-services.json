@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131813835093",
+    "project_id": "audio-therapy-7ce8b",
+    "storage_bucket": "audio-therapy-7ce8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131813835093:android:fb74a23efeae6530686fdc",
+        "android_client_info": {
+          "package_name": "com.kingsofpearl.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131813835093-70e8bsj88jqk0vqbicdvv5i3t22c02dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingsofpearl.music_app",
+            "certificate_hash": "0fb0ecd429245e96c806aed9dc4846f01eb67440"
+          }
+        },
+        {
+          "client_id": "131813835093-nvgk0uh6orbdltm0bdk000rgoe6cau9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2KtwmSJ9YgH0Xfvy1ubILNNU1_tWnZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131813835093-nvgk0uh6orbdltm0bdk000rgoe6cau9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
